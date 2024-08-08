@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Visualization, Data Science**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at [zakyzaujan.my.id](...)
 
 - 📫 How to reach me **zakyzaujan@gmail.com**
 

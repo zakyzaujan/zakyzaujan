@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, My name's Zaky Zaujan</h1>
-<h3 align="center">Passioned to become a Data Analyst, eager to become a Web Developer</h3>
+<h3 align="center">Passioned to become a Data Analyst, also eagering to become a Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakyzaujan&label=Profile%20views&color=0e75b6&style=flat" alt="zakyzaujan" /> </p>
 

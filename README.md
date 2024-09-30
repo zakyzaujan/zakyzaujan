@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakyzaujan&label=Profile%20views&color=0e75b6&style=flat" alt="zakyzaujan" /> </p>
 
-- 🌱 I’m currently learning **Data Visualization, Data Science, React**
+- 🌱 I’m currently learning **Data Science, React**
 
 - 👨‍💻 Check out my portfolio website at [https://www.zakyzaujan.my.id]
 

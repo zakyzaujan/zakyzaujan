@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, React**
 
-- 👨‍💻 Check out my portfolio website at [https://www.zakyzaujan.my.id]
+- 👨‍💻 Check out my personal website at [https://www.zakyzaujan.my.id]
 
 - 📫 How to reach me **zakyzaujan@gmail.com**
 

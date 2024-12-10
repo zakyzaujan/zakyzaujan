@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zaky-zaujan-jayaputra-6b0486275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaky-zaujan-jayaputra-6b0486275" height="30" width="40" /></a>
+<a href="https://instagram.com/zaky_zaujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaky_zaujan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

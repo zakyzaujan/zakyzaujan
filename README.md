@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning on <b>Data Science & Web Development</b> (React, Next.js)<br>👯 I’m looking to collaborate on <b>any projects</b> related to my passion<br>💬 Ask me anything about <b>technologies</b> :D<br>⚡ <b>Third-year</b> Information Systems student
-
+🌱 I’m currently learning on <b>Data Science & Web Development</b> (React, Next.js)<br>👯 I’m looking to collaborate on <b>any projects</b> related to my passion<br>💬 Ask me anything about <b>technologies</b> :D<br>⚡ <b>Third-year</b> Information Systems student<br>👨‍💻 Check out my personal website at [https://www.zakyzaujan.my.id](https://www.zakyzaujan.my.id)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaky_zaujan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaky-zaujan-jayaputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakyzaujan@gmail.com) 
@@ -16,6 +15,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=zakyzaujan&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zakyzaujan&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakyzaujan&label=Profile%20views&color=0e75b6&style=flat" alt="zakyzaujan" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning on <b>Data Science & Web Development</b> (React, Next.js)<br>👯 I’m looking to collaborate on <b>any projects</b> related to my passion<br>💬 Ask me anything about <b>technologies</b> :D<br>⚡ <b>Third-year</b> Information Systems student<br>👨‍💻 Check out my <b>personal website<b> [here](https://www.zakyzaujan.my.id)
+🌱 I’m currently learning on <b>Data Science & Web Development</b> (React, Next.js)<br>👯 I’m looking to collaborate on <b>any projects</b> related to my passion<br>💬 Ask me anything about <b>technologies</b> :D<br>👨‍💻 Check out my <b>personal website<b> [here](https://www.zakyzaujan.my.id)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaky_zaujan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaky-zaujan-jayaputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakyzaujan@gmail.com) 
